@@ -66,7 +66,7 @@ This is a simple Spring Boot application for managing a quiz system. Users can:
 
 ### Base URL
 
-`http://localhost:8080/quiz`
+`http://localhost:8080/api/quiz`
 
 ### 1. Start a New Quiz Session
 
